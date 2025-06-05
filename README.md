@@ -2,7 +2,7 @@
 - 👀 I’m interested in core coading, travelling, reading, research and making food.
 - 🌱 I’m currently learning PHP, OOPs, MVC, API, and GitHub.
 - 💞️ I’m looking to collaborate on live project with senior developer.
-- 📫 How to reach me: via email, surya_creation_outlook.com
+- 📫 How to reach me: via email, suryakantaus@outlook.com
 - 😄 Pronouns: He, his, him, and surya.
 - ⚡ Fun fact: I am curious about learning my interest.
 
